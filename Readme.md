@@ -7,7 +7,8 @@
 - The computer keeps displaying the already guessed letters after each turn. 
 - The game continues until the player wins or the number of chances becomes zero.
 - The game needs to be case insensitive
-Ex. The word chosen is java and the number of chances is 5, the computer displays
+- 
+### Ex. The word chosen is java and the number of chances is 5, the computer displays
 
 _ _ _ _ 
 5 chances left
@@ -23,3 +24,9 @@ _ a _ a
 
 j a _ a
 4 chances left
+
+________________________________________________________________________________________
+
+## Steps to install
+
+This is a ~100 line java program and can be run directly using javac & java
